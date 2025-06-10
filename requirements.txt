@@ -1,4 +1,4 @@
 beautifulsoup4==4.9.1
 django-sendgrid-webhook==0.3.0
-requests==2.31.0
+requests==2.32.4
 sendgrid==6.3.1
